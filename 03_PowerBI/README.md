@@ -1,0 +1,1 @@
+Ce dossier contient le rapport Power BI du projet Inventory Analytics. Il comprend trois tableaux de bord interactifs consacrés à la gestion des stocks, à la performance des livraisons et à l'analyse des écarts d'inventaire.
