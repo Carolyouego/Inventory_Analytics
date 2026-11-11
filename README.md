@@ -122,7 +122,7 @@ Ce projet met en évidence les compétences suivantes :
 
 Le dépôt contient les scripts SQL, les packages SSIS, le rapport Power BI et les captures d'écran des tableaux de bord.
 
-## 📌 Conclusion
+## Conclusion
 
 Inventory Analytics illustre la mise en œuvre d'une solution décisionnelle complète, depuis la préparation et l'intégration des données jusqu'à leur analyse et leur visualisation dans Power BI.
 
