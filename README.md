@@ -127,3 +127,14 @@ Le dépôt contient les scripts SQL, les packages SSIS, le rapport Power BI et l
 Inventory Analytics illustre la mise en œuvre d'une solution décisionnelle complète, depuis la préparation et l'intégration des données jusqu'à leur analyse et leur visualisation dans Power BI.
 
 Le projet démontre l'utilisation complémentaire de SQL Server, SSIS et Power BI pour répondre à des besoins de suivi opérationnel et d'aide à la décision.
+
+## Aperçu des tableaux de bord Power BI
+
+### 1. Gestion des stocks
+![Gestion des stocks](03_PowerBI/Gestion_des_stocks.png)
+
+### 2. Performance des livraisons
+![Performance des livraisons](03_PowerBI/Performance_des_livraisons.png)
+
+### 3. Analyse des écarts d'inventaire
+![Analyse des écarts](03_PowerBI/Analyse_des_ecarts.png)
